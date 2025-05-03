@@ -1,0 +1,39 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Mac / Linux system files
+.DS_Store
+
+# Secrets and Configs
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+secrets.json
+
+# Logs
+*.log
+
+# Dependency cache
+packages/
+*.nupkg
+
+# Publish output
+wwwroot/dist/
+publish/
+
+# Environment files
+.env
+.env.*
+
+.vs/
